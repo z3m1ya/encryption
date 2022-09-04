@@ -11,7 +11,7 @@
 `<Путь к файлу>` - Путь или имя файла который нужно зашифровать
 `[Путь к открытому ключу]` - Путь или имя открытого ключу, по умолчанию это "public.key"
 
-Пример: `encryption crypt sercet.txt public_1.key``
+Пример: `encryption crypt sercet.txt public_1.key`
 
 `<decrypt>` или `<d>` - Расшифровать
 
